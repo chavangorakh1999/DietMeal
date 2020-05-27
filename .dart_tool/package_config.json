@@ -164,13 +164,13 @@
       "languageVersion": "2.6"
     },
     {
-      "name": "dietmeal",
+      "name": "mealApp",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-05-26T09:37:19.111979Z",
+  "generated": "2020-05-27T10:46:51.571054Z",
   "generator": "pub",
   "generatorVersion": "2.8.2"
 }
